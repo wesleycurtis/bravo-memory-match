@@ -1,4 +1,4 @@
-# Brave Tic Tac Toe
+# Tic Tac Toe
 
 > A beginner-friendly browser game that lets players enjoy a simple Tic Tac Toe experience in both concept and full game modes.
 
